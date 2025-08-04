@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**joanascript/joanascript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Frontend Developer** passionate about crafting beautiful, functional, and minimalist websites and web applications.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- **Languages:** JavaScript, TypeScript
+- **Frameworks:** React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ What I love
+Creating elegant user experiences and clean, modern interfaces that focus on simplicity and usability.
+
+---
+
+Let's connect and build something amazing together!
